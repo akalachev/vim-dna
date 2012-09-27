@@ -33,10 +33,10 @@ hi AA_val  ctermfg=154 guifg=#af0
 hi AA_trp  ctermfg=39  guifg=#0cf
 hi AA_tyr  ctermfg=49  guifg=#0fc
 
-syn match nuclA 'a' contained
-syn match nuclC 'c' contained
-syn match nuclG 'g' contained
-syn match nuclT 't' contained
+syn match nuclA '[Aa]\+' contained
+syn match nuclC '[Cc]\+' contained
+syn match nuclG '[Gg]\+' contained
+syn match nuclT '[Tt]\+' contained
 
 syn match AA_gap  '-' contained
 syn match AA_stop '*' contained
