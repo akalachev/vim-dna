@@ -1,0 +1,1 @@
+autocmd BufNewFile,BufRead *.gbk,*.gb,*.genbank set filetype=genbank
