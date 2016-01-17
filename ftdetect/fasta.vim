@@ -1,1 +1,1 @@
-autocmd BufNewFile,BufRead *.fasta,*.fsa,*.fa set filetype=fasta
+autocmd BufNewFile,BufRead *.fasta,*.fsa,*.fa,*fst set filetype=fasta
