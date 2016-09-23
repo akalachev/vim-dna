@@ -10,28 +10,28 @@ hi nuclG ctermfg=brown   guifg=#FC8D62
 hi nuclT ctermfg=green   guifg=#66C265
 
 " Amino Acid highlighting
-hi AA_gap  ctermfg=251 guifg=#ccc
-hi AA_stop ctermfg=160 guifg=#c00
-hi AA_ala  ctermfg=190 guifg=#cf0
-hi AA_cys  ctermfg=226 guifg=#ff0
-hi AA_asp  ctermfg=196 guifg=#f00
-hi AA_glu  ctermfg=197 guifg=#f06
-hi AA_phe  ctermfg=48  guifg=#0f9
-hi AA_gly  ctermfg=214 guifg=#fa0
-hi AA_his  ctermfg=27  guifg=#06f
-hi AA_ile  ctermfg=82  guifg=#6f0
-hi AA_lys  ctermfg=57  guifg=#84f
-hi AA_leu  ctermfg=46  guifg=#2f0
-hi AA_met  ctermfg=46  guifg=#0f0
-hi AA_asn  ctermfg=129 guifg=#c0f
-hi AA_pro  ctermfg=214 guifg=#fc0
-hi AA_gln  ctermfg=199 guifg=#f0c
-hi AA_arg  ctermfg=12  guifg=#88f
-hi AA_ser  ctermfg=197 guifg=#f20
-hi AA_thr  ctermfg=202 guifg=#f60
-hi AA_val  ctermfg=154 guifg=#af0
-hi AA_trp  ctermfg=39  guifg=#0cf
-hi AA_tyr  ctermfg=49  guifg=#0fc
+hi AA_gap  ctermfg=251 guifg=#cccccc
+hi AA_stop ctermfg=160 guifg=#cc0000
+hi AA_ala  ctermfg=190 guifg=#ccff00
+hi AA_cys  ctermfg=226 guifg=#ffff00
+hi AA_asp  ctermfg=196 guifg=#ff0000
+hi AA_glu  ctermfg=197 guifg=#ff0066
+hi AA_phe  ctermfg=48  guifg=#00ff99
+hi AA_gly  ctermfg=214 guifg=#ffaa00
+hi AA_his  ctermfg=27  guifg=#0066ff
+hi AA_ile  ctermfg=82  guifg=#66ff00
+hi AA_lys  ctermfg=57  guifg=#8844ff
+hi AA_leu  ctermfg=46  guifg=#22ff00
+hi AA_met  ctermfg=46  guifg=#00ff00
+hi AA_asn  ctermfg=129 guifg=#cc00ff
+hi AA_pro  ctermfg=214 guifg=#ffcc00
+hi AA_gln  ctermfg=199 guifg=#ff00cc
+hi AA_arg  ctermfg=12  guifg=#8888ff
+hi AA_ser  ctermfg=197 guifg=#ff2200
+hi AA_thr  ctermfg=202 guifg=#ff6600
+hi AA_val  ctermfg=154 guifg=#aaff00
+hi AA_trp  ctermfg=39  guifg=#00ccff
+hi AA_tyr  ctermfg=49  guifg=#00ffcc
 
 syn match nuclA '[Aa]\+' contained
 syn match nuclC '[Cc]\+' contained
